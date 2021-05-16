@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ChainsawGirlMock.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\ChainsawGirlMockEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\ChainsawGirlMock.cpp.obj"
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\ChainsawGirlMockGameModeBase.cpp.obj"
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\ChainsawGirlMock.init.gen.cpp.obj"
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\ChainsawGirlMockGameModeBase.gen.cpp.obj"
+"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\Default.rc2.res"
+/OUT:"C:\Users\tnt08\Documents\StudioAltemira\chainsaw-girl-mock\ChainsawGirlMock\Intermediate\Build\Win64\UE4Editor\Development\ChainsawGirlMock\UE4Editor-ChainsawGirlMock.lib"
+/INCLUDE:IMPLEMENT_MODULE_ChainsawGirlMock

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChainsawGirlMock",
+			"Path": "C:\\Users\\tnt08\\Documents\\StudioAltemira\\chainsaw-girl-mock\\ChainsawGirlMock\\Source\\ChainsawGirlMock.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChainsawGirlMockEditor",
+			"Path": "C:\\Users\\tnt08\\Documents\\StudioAltemira\\chainsaw-girl-mock\\ChainsawGirlMock\\Source\\ChainsawGirlMockEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

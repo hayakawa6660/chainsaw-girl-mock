@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ChainsawGirlMock.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{119B2831-3C75-40BB-A38B-12EC31BD8C10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChainsawGirlMock.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChainsawGirlMockEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{958A7C5C-D8EF-4157-A78B-0AE11C4BDF69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ChainsawGirlMock">
+      <UniqueIdentifier>{C49B29E0-5F98-4A84-8DFF-F32C089170A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChainsawGirlMock\ChainsawGirlMock.Build.cs">
+      <Filter>Source\ChainsawGirlMock</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ChainsawGirlMock\ChainsawGirlMock.cpp">
+      <Filter>Source\ChainsawGirlMock</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChainsawGirlMock\ChainsawGirlMock.h">
+      <Filter>Source\ChainsawGirlMock</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChainsawGirlMock\ChainsawGirlMockGameModeBase.cpp">
+      <Filter>Source\ChainsawGirlMock</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChainsawGirlMock\ChainsawGirlMockGameModeBase.h">
+      <Filter>Source\ChainsawGirlMock</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
